@@ -8,6 +8,10 @@ typedef struct NODE{
 	float comp;
 }node;
 
+//**
+//EDITED 
+//************
+
 void swap(node *a,node *B);
 void SORT(node *ND,int n);
 int OPTIMAL(node *ND,int n,int B,int **V,int *COUNT);
