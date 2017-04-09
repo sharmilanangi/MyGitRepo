@@ -14,6 +14,8 @@ int OPTIMAL(node *ND,int n,int B,int **V,int *COUNT);
 int OPTIMAL1(node *ND,int n,int B,int **V,int **S,int *COUNT);
 void PRINT(int **S,node *ND,int **V,int n,int B,int* COUNT);
 
+//**************************************************CHANGE************************************//
+
 void main()
 {
 	int n,B,i,j,x;
